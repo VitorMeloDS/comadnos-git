@@ -441,6 +441,12 @@ Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 	
 	git bisect reset
  	
+### Pull Resquest
+
+##### Criando um novo pull resquest
+
+	git push origin <nome da branch que deseja subir para criar o pull request>
+	
 
 # Contribuições
 

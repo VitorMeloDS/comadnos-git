@@ -448,6 +448,14 @@ Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 	git push origin <nome da branch que deseja subir para criar o pull request>
 	
 
+### Atualizar branch
+
+##### Atualizar branch locais com as remotas
+
+	git remote update --prune
+ 
+
+
 # Contribuições
 
 Sinta-se a vontade para realizar adicionar mais informações ou realizar correções. Fork me!
